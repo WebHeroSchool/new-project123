@@ -1,14 +1,14 @@
-h1{
+.head__title{
 color:red;
 font-family:'Roboto', sans-serif;
 }
 
-p{
+.section__subtitle{
 color:blue;
 font-family:'Roboto', sans-serif;
 }
 
-button{
+.section__button{
 color:black;
 font-family:'Roboto', sans-serif;
 }
