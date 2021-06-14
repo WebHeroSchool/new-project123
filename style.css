@@ -16,6 +16,14 @@
   padding-right: 0;
 }
 
+.menu__item_active:: after{
+  position: absolute;
+  display: block;
+  content: ";
+  width: 68px:
+  height: 10px;
+  bakground: #0056EC;
+}
 
 .logo{
 color:red;
