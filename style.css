@@ -49,24 +49,30 @@ height: 35px;
 }
 
 .menu__item:hover{
-  padding: 0 13px;
+  margin-right: 0 13px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
   color: #000;
   text_decoration: none;
   opacity: 0,5;
 }
 
-.menu__item_active::after{
+.menu__item:hover:after{
   position: absolute;
   display: block;
   content: ":
   width: 68px;
   height: 10px;
   background:#0056EC;
+  opacity: 0;
+  transition: .5s;
 }
 
+.menu__item:hover:after, .menu__item_active:after{
+  opacity: 1;
+}
+  
 .menu__item:last-child{
-  padding-right: 0;
+  margin-right: 0;
 }
 
 .main-content__title{
