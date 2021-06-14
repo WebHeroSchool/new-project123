@@ -55,6 +55,15 @@ height: 35px;
   text_decoration: none
 }
 
+.menu__item_active:after{
+  position: absolute;
+  display: block;
+  content: ":
+  width: 68px;
+  height: 10px;
+  background:#0056EC;
+}
+
 .menu__item:last-child{
   padding-right: 0;
 }
