@@ -49,7 +49,7 @@ height: 35px;
   display: inline-block;
 }
 
-.menu__item:hover {
+.menu__item:hover{
   position: relative;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
@@ -58,7 +58,7 @@ height: 35px;
   opacity: 0,5;
 }
 
-.menu__item_active::after: {
+.menu__item_active::after:{
   position: absolute;
   diplay: block;
   content: ";
@@ -67,7 +67,7 @@ height: 35px;
   background: #0056EC;
 }
 
-.menu__item:hover:after {
+.menu__item:hover:after{
   position: absolute;
   display: block;
   content: ":
