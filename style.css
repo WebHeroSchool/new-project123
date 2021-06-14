@@ -48,11 +48,12 @@ height: 35px;
   display: inline-block;
 }
 
-.menu__item{
+.menu__item:hover{
   padding: 0 13px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
   color: #000;
-  text_decoration: none
+  text_decoration: none;
+  opacity: 0,5;
 }
 
 .menu__item_active::after{
