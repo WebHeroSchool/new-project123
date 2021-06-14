@@ -55,7 +55,7 @@ height: 35px;
   text_decoration: none
 }
 
-.menu__item_active:after{
+.menu__item_active::after{
   position: absolute;
   display: block;
   content: ":
