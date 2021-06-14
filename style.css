@@ -21,7 +21,7 @@
   display: block;
   content: ";
   width: 68px:
-  height: 10px;
+  height: 100;
   bakground: #0056EC;
 }
 
@@ -37,7 +37,6 @@ display: inline-block;
   align-items: center;
   display: inline-block;
 }
-
 
 .main-content__title{
 color:blue;
