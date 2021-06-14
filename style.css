@@ -51,7 +51,7 @@ height: 35px;
 .menu__item{
   padding: 0 13px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
-  color #000000;
+  color: #000000;
 }
 
 .menu__item:last-child{
