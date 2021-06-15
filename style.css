@@ -50,6 +50,7 @@ height: 35px;
 }
 
 .menu__item{
+  position: relative;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
   color: #000;
@@ -57,7 +58,11 @@ height: 35px;
 }
 
 .menu__item::after {
-  position: absolute;
+  position: relative;
+  margin-right: 26px;
+  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+  color: #000;
+  text-decoration: none;
 }
 
 .menu__item_active::after {
