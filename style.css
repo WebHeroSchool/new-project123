@@ -57,7 +57,7 @@ height: 35px;
 }
 
 .menu__item::after {
-  position: relative;
+  position: absolute;
 }
 
 .menu__item_active::after {
