@@ -8,6 +8,40 @@
   justify-content: space-between;
 }
 
+.logo{
+color:red;
+font-family:sans-serif;
+padding: 40px 0;
+display: inline-block;
+}
+
+.logo__circle{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  opacity: .7;
+}
+
+.logo__circle_color_dark-blue{
+  background: #0056EC;
+}
+
+.logo__circle_color_blue{
+  left: 8px;
+  top: 56%;
+  background: #C8DBFB;
+}
+
+.menu{
+  display: flex;
+  align-items: center;
+  display: inline-block;
+}
+
 .menu__item{
   position: relative;
   margin-right: 26px:
@@ -32,23 +66,6 @@
   width: 68px:
   height: 100%;
   bakground: #0056EC;
-}
-
-.menu__item: last-child{
-  margin-right: 0;
-}
-
-.logo{
-color:red;
-font-family:sans-serif;
-padding: 40px 0;
-display: inline-block;
-}
-
-.menu{
-  display: flex;
-  align-items: center;
-  display: inline-block;
 }
 
 .main-content__title{
