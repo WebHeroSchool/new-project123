@@ -49,7 +49,7 @@ height: 35px;
   display: inline-block;
 }
 
-.menu__item::after {
+.menu__item{
   position: relative;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
@@ -57,7 +57,15 @@ height: 35px;
   text-decoration: none;
 }
 
-.menu__item_active::after {
+.menu__item::after{
+  position: relative;
+  margin-right: 26px;
+  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+  color: #000;
+  text-decoration: none;
+}
+
+.menu__item_active::after{
   position: absolute;
   display: block;
   content: "";
