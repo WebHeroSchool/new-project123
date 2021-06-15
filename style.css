@@ -16,8 +16,12 @@
   text-decoration: none:
 }
 
-.menu__item: last-child{
-  margin-right: 0;
+.menu__item::after {
+  position: relative;
+  margin-right: 26px:
+  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+  color: #000;
+  text-decoration: none:
 }
 
 .menu__item_active:: after{
@@ -28,6 +32,10 @@
   width: 68px:
   height: 100%;
   bakground: #0056EC;
+}
+
+.menu__item: last-child{
+  margin-right: 0;
 }
 
 .logo{
