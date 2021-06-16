@@ -50,6 +50,7 @@ height: 35px;
 }
 
 .menu__item{
+  padding-top: 40px;
   position: relative;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
