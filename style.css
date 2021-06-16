@@ -59,6 +59,7 @@ height: 35px;
 }
 
 .menu__item::after {
+  padding-top: 40px;
   position: relative;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
@@ -67,6 +68,7 @@ height: 35px;
 }
 
 .menu__item_active::after {
+  padding-top:40px;
   position: absolute;
   display: block;
   content: "";
