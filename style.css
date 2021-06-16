@@ -78,7 +78,7 @@ height: 35px;
 
 .menu__item_active::after {
   padding-top:0 40px;
-  position: absolute;
+  position: relative;
   display: block;
   content: "";
   width: 100%;
