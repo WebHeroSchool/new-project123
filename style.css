@@ -47,10 +47,10 @@ height: 35px;
   display: flex;
   align-items: center;
   display: inline-block;
- padding-top: 100px;
 }
 
 .menu__item{
+  padding-top: 100px;
   left: 0;
   position: relative;
   margin-right: 26px;
