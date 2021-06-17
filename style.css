@@ -52,7 +52,7 @@ height: 35px;
 .menu__item{
   left: 0;
   position: relative;
-  padding-top: 40px;
+  margin-top: 40px;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
   color: #000;
@@ -67,6 +67,7 @@ height: 35px;
 
 .menu__item:hover:after {
   position: relative;
+  margin-top: 40px;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
   color: #000;
