@@ -40,7 +40,7 @@ display: inline-block;
   display: flex;
   align-items: center;
   display: inline-block;
-  margin-top: 100px;
+  padding-top: 100px;
 }
 
 .menu__item{
