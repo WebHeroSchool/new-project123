@@ -85,9 +85,12 @@ height: 35px;
 
 .menu__item:last-child {
   margin-right: 0;
-
+  
+ .main{
+  padding-right: 63%;
+  }
+  
 .main__title{
-padding-right: 63%;
 margin-bottom: 0 0 40px 0;
 font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
 color:blue;
