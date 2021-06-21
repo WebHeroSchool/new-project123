@@ -86,24 +86,21 @@ height: 35px;
 .menu__item:last-child {
   margin-right: 0;
 
-.main-content{
-  padding-top: 100px;
-  width: 37%;
-  }
-  
-.main-content__title{
+.main__title{
+padding-top: 100px;
+width: 37%;
 margin-bottom: 0 0 40px 0;
 font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
 color:blue;
 }
 
-.main-content__subtitle{
+.main__subtitle{
 margin-botom: 41px;
 font: 18px/21px Roboto, arial, helvetica, sans-serif;
 color:blue:
 }
 
-.main-content__button{
+.main__button{
 color:grey;
 font-family:'Roboto', sans-serif;
 }
