@@ -10,6 +10,7 @@ body{
 .header{
   display: flex;
   justify-content: space-between;
+  margin-bottom: 100px;
 }
 
 .logo{
@@ -87,22 +88,23 @@ height: 35px;
   margin-right: 0;
   
  .main{
-  padding-right: 63%;
+  padding-right: 0 63% 100px 0;
+  background: top right no-repeat url(img/mainImg.svg);
   }
   
 .main__title{
-margin-bottom: 0 0 40px 0;
-font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
-color:blue;
+  margin-bottom: 0 0 40px 0;
+  font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+  color:blue;
 }
 
 .main__subtitle{
-margin-botom: 41px;
-font: 18px/21px Roboto, arial, helvetica, sans-serif;
-color:blue:
+  margin-botom: 41px;
+  font: 18px/21px Roboto, arial, helvetica, sans-serif;
+  color:blue:
 }
 
 .main__button{
-color:grey;
-font-family:'Roboto', sans-serif;
+  color:grey;
+  font-family:'Roboto', sans-serif;
 }
