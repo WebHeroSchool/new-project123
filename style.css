@@ -97,6 +97,10 @@ height: 35px;
   font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
   color:blue;
 }
+  
+.main__title-text_highlight{
+  background: #ECF3FF;
+  }
 
 .main__subtitle{
   margin-botom: 41px;
