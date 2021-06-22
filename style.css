@@ -86,10 +86,11 @@ height: 35px;
 
 .menu__item:last-child {
   margin-right: 0;
-  
+  }
+
  .main{
-  padding-right: 0 63% 100px 0;
-  background: top right no-repeat url(img/mainImg.svg);
+  padding: 0 63% 100px 0;
+  background: top right no-repeat url(img/mainimg.svg);
   }
   
 .main__title{
