@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+}
+
+.wrapper{
+  margin: auto;
+  width: 80%;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.logo{
+position: relative;
+color:black;
+padding: 40px 0;
+padding-left: 44px;
+font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
+width: 190px;
+height: 35px;
+}
+
+.logo__circle{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  opacity: .7;
+}
+
+.logo__circle_color_dark-blue{
+  background: #0056EC;
+}
+
+.logo__circle_color_blue{
+  left: 8px;
+  top: 56%;
+  background: #C8DBFB;
+}
+
+.menu{
+  display: flex;
+  align-items: center;
+}
+
+.menu__item{
+  left: 0;
+  position: relative;
+  margin-right: 26px;
+  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+  color: #000;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity .5s;
+}
+
+.menu__item:hover {
+   opacity: 1;
+}
+
+.menu__item:hover:after {
+  position: relative;
+  margin-right: 26px;
+  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+  color: #000;
+  text-decoration: none;
+  opacity: 1;
+}
+
+.menu__item_active::after {
+  position: absolute;
+  display: block;
+  content: "";
+  width: 100%;
+  height: 3px;
+  left: 0;
+  background: #0056EC;
+  opacity: 1;
+}
+
+.menu__item:last-child {
+  margin-right: 0;
+  }
+
+ .main{
+  padding: 0 63% 100px 0;
+  background: top right no-repeat url(img/mainimg.svg);
+  }
+
+.main__title{
+  margin: 0 0 40px 0;
+  font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
+  color:blue;
+}
+
+.main__title-text_highlight{
+  background: #ECF3FF;
+  }
+
+.main__subtitle{
+  margin-botom: 41px;
+  font: 18px/21px Roboto, arial, helvetica, sans-serif;
+  color:blue:
+}
+
+.main__button{
+  display: inline-block;
+  font: 14px/16px Roboto, arial, helvetica, sans-serif;
+  color:#fff;
+  background: #0056EC;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-radius: 4px;
+  }
+
+  .main__button:hover{
+    opacity: .5;
+  }
