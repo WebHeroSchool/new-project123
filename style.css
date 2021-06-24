@@ -96,7 +96,7 @@ height: 35px;
 .main__title{
   margin: 0 0 40px 0;
   font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
-  color:blue;
+  color:black;
 }
 
 .main__title-text_highlight{
@@ -106,7 +106,7 @@ height: 35px;
 .main__subtitle{
   margin-botom: 41px;
   font: 18px/21px Roboto, arial, helvetica, sans-serif;
-  color:blue:
+  color:black:
 }
 
 .main__button{
