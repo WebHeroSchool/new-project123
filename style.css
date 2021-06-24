@@ -14,7 +14,7 @@ body{
 }
 
 .logo{
-  position: relative;
+  position: absolute;
   color:black;
   padding: 40px 0;
   padding-left: 44px;
@@ -23,6 +23,8 @@ body{
   height: 32px;
   top: 40px;
   left: calc(50% - 146px/2 - 647px);;
+  display: flex;
+  align-items: center;
 }
 
 .logo__circle{
@@ -96,6 +98,7 @@ body{
   }
   
 .main__title{
+  position: absolute;
   margin: 0 0 40px 0;
   font: bold 66px/87,45px pt_serifbold, arial, helvetica, sans-serif;
   color:black;
@@ -103,6 +106,9 @@ body{
   height: 255px;
   top: 318px;
   left: calc(50% - 567px/2 - 481.5px);
+  display: flex;
+  align-items: center;
+
 }
   
 .main__title-text_highlight{
@@ -110,6 +116,7 @@ body{
   }
 
 .main__subtitle{
+  position: absolute;
   margin-botom: 41px;
   font: 22px/26px Roboto, arial, helvetica, sans-serif;
   color:black:
