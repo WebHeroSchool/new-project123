@@ -14,15 +14,13 @@ body{
 }
 
 .logo{
-  position: absolute;
+  position: relative;
   color:black;
   padding: 40px 0;
   padding-left: 44px;
   font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
   width: 146px;
   height: 32px;
-  top: 40px;
-  left: calc(50% - 146px/2 - 647px);;
   display: flex;
   align-items: center;
 }
@@ -108,7 +106,6 @@ body{
   left: calc(50% - 567px/2 - 481.5px);
   display: flex;
   align-items: center;
-
 }
   
 .main__title-text_highlight{
