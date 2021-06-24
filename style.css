@@ -16,7 +16,7 @@ body{
 .logo{
 position: relative;
 color:black;
-padding: 40px 0;
+padding: 80px 0;
 padding-left: 195px;
 font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
 width: 190px;
@@ -25,7 +25,7 @@ height: 35px;
 
 .logo__circle{
   position: absolute;
-  left: 0;
+  left: 190px;
   top: 50%;
   transform: translateY(-50%);
   width: 28px;
