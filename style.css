@@ -17,8 +17,8 @@ body{
 position: relative;
 color:black;
 padding: 85px 0;
-padding-left: 195px;
-font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
+padding-left: 210px;
+font: bold 40px/50px pt_serifbold, arial, helvetica, sans-serif;
 width: 190px;
 height: 35px;
 }
@@ -36,13 +36,13 @@ height: 35px;
 
 .logo__circle_color_dark-blue{
   background: #0056EC;
-  left: 190px;
+  left: 195px;
 }
 
 .logo__circle_color_blue{
   left: 8px;
   top: 56%;
-  left: 190px;
+  left: 205px;
   background: #C8DBFB;
 }
 
