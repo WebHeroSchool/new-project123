@@ -94,7 +94,7 @@ height: 35px;
   }
   
 .main__title{
-  margin-bottom: 0 0 40px 0;
+  margin: 0 0 40px 0;
   font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
   color:blue;
 }
