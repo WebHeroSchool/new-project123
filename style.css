@@ -18,7 +18,7 @@ position: relative;
 color:black;
 padding: 85px 0;
 padding-left: 225px;
-font: bold 100px/110px pt_serifbold, arial, helvetica, sans-serif;
+font: bold 60px/70px pt_serifbold, arial, helvetica, sans-serif;
 width: 190px;
 height: 35px;
 }
@@ -49,10 +49,10 @@ height: 35px;
 .menu{
   display: flex;
   align-items: center;
+   right: 200px;
 }
 
 .menu__item{
-  right: 200px;
   position: relative;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
