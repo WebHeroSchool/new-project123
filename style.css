@@ -16,16 +16,15 @@ body{
 .logo{
 position: relative;
 color:black;
-padding: 85px 0;
-padding-left: 225px;
-font: bold 60px/70px pt_serifbold, arial, helvetica, sans-serif;
+padding: 40px 0;
+padding-left: 44px;
+font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
 width: 190px;
 height: 35px;
 }
-
 .logo__circle{
   position: absolute;
-  left: 0px;
+  left: 0;
   top: 50%;
   transform: translateY(-50%);
   width: 28px;
@@ -36,23 +35,21 @@ height: 35px;
 
 .logo__circle_color_dark-blue{
   background: #0056EC;
-  left: 205px;
 }
 
 .logo__circle_color_blue{
   left: 8px;
   top: 56%;
-  left: 215px;
   background: #C8DBFB;
 }
 
 .menu{
   display: flex;
   align-items: center;
-  right: 200px;
 }
 
 .menu__item{
+  left: 0;
   position: relative;
   margin-right: 26px;
   font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
@@ -91,15 +88,14 @@ height: 35px;
   }
 
  .main{
-  padding: 0 63% 100px 200px;
+  padding: 0 63% 100px 0;
   background: top right no-repeat url(img/mainimg.svg);
-  height: 100vh;
-  padding-left: 195px}
+  }
 
 .main__title{
   margin: 0 0 40px 0;
-  font: bold 100px/110px pt_serifbold, arial, helvetica, sans-serif;
-  color:black;
+  font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
+  color:blue;
 }
 
 .main__title-text_highlight{
@@ -109,7 +105,7 @@ height: 35px;
 .main__subtitle{
   margin-botom: 41px;
   font: 18px/21px Roboto, arial, helvetica, sans-serif;
-  color:black:
+  color:blue:
 }
 
 .main__button{
