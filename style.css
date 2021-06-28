@@ -85,7 +85,7 @@ height: 35px;
 }
 
 .menu__item:last-child {
-  margin-right: 9px;
+  margin-right: -9px;
   }
 
  .main{
