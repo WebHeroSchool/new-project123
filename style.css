@@ -91,14 +91,14 @@ height: 35px;
   }
 
  .main{
-  padding: 600px 63% 100px 0;
+  padding: 400px 63% 100px 0;
   background: top right no-repeat url(img/mainimg.svg);
   height: 100vh;
   padding-left: 195px}
 
 .main__title{
   margin: 0 0 40px 0;
-  font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
+  font: bold 100px/110px pt_serifbold, arial, helvetica, sans-serif;
   color:black;
 }
 
