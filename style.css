@@ -95,11 +95,12 @@ height: 35px;
 
 .main__title{
   margin: 0 5px 30px 0;
-  font: bold 65px/80px pt_serifbold, arial, helvetica, sans-serif;
+  font: bold 66px/83px pt_serifbold, arial, helvetica, sans-serif;
   color:black;
 }
 
 .main__title-text_highlight{
+  line-height: 88px;
   background: #ECF3FF;
   }
 
