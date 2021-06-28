@@ -89,13 +89,13 @@ height: 35px;
   }
 
  .main{
-  padding: 103px 63% 100px 0;
+  padding: 105px 63% 100px 0;
   background: top right no-repeat url(img/mainimg.svg);
   }
 
 .main__title{
   margin: 0 0 40px 0;
-  font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
+  font: bold 60px/75px pt_serifbold, arial, helvetica, sans-serif;
   color:black;
 }
 
