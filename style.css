@@ -105,14 +105,14 @@ height: 35px;
   }
 
 .main__subtitle{
-  margin-botom: 41px;
-  font: 22px/25px Roboto, arial, helvetica, sans-serif;
+  margin-botom: 51px;
+  font: 25px/28px Roboto, arial, helvetica, sans-serif;
   color:blue:
 }
 
 .main__button{
   display: inline-block;
-  font: 14px/16px Roboto, arial, helvetica, sans-serif;
+  font: 20px/22px Roboto, arial, helvetica, sans-serif;
   color:#fff;
   background: #0056EC;
   padding: 14px 16px;
