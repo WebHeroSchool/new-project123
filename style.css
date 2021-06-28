@@ -18,7 +18,7 @@ position: relative;
 color:black;
 padding: 85px 0;
 padding-left: 225px;
-font: bold 50/60px pt_serifbold, arial, helvetica, sans-serif;
+font: bold 100/110px pt_serifbold, arial, helvetica, sans-serif;
 width: 190px;
 height: 35px;
 }
@@ -91,7 +91,7 @@ height: 35px;
   }
 
  .main{
-  padding: 400px 63% 100px 0;
+  padding: 350px 63% 100px 0;
   background: top right no-repeat url(img/mainimg.svg);
   height: 100vh;
   padding-left: 195px}
