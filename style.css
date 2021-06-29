@@ -112,10 +112,10 @@ height: 35px;
 
 .main__button{
   display: inline-block;
-  font: 16px/18px Roboto, arial, helvetica, sans-serif;
+  font: 19px/21px Roboto, arial, helvetica, sans-serif;
   color:#fff;
   background: #0056EC;
-  padding: 25px 41px;
+  padding: 18px 23px;
   text-decoration: none;
   border-radius: 4px;
   }
