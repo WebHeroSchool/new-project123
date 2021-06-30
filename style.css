@@ -61,19 +61,10 @@ height: 35px;
 }
 
 .menu__item:hover {
-   opacity: 1;
+   opacity: 0,5;
 }
 
-.menu__item:hover:after {
-  position: relative;
-  margin-right: 26px;
-  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
-  color: #000;
-  text-decoration: none;
-  opacity: 1;
-}
-
-.menu__item_active::after {
+.menu__item::after {
   position: absolute;
   display: block;
   content: "";
@@ -81,7 +72,11 @@ height: 35px;
   height: 3px;
   left: 0;
   background: #0056EC;
-  opacity: 1;
+  opacity: 0;
+}
+
+.menu__item:hover, .menu__item::after {
+  opacity: 1
 }
 
 .menu__item:last-child {
