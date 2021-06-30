@@ -118,3 +118,10 @@ height: 35px;
   .main__button:hover{
     opacity: .5;
   }
+
+  .points{
+    position: absolute;
+    font: 8px/8px;
+    padding: 1032px 0px 0px 968;
+    color: #C8DBFB;
+   }
