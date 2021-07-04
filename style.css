@@ -126,7 +126,7 @@ height: 35px;
     color: #C8DBFB;
    }
   
-  @madia (max-width: 768px){
+  @media (max-width: 768px){
   .menu{
    display: none;
     }
