@@ -200,6 +200,11 @@ height: 35px;
     font: bold 30px/39px pt_serif, arial, helvetica, sans-serif;
      }
     
+    .main__img{
+    width: 90%;
+    height: auto;
+     }
+  
     .main__button{
     font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
     }
