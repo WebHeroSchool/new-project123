@@ -180,10 +180,11 @@ height: 35px;
   
     .main__subtitle{
     font: 16px/18px Roboto, arial, helvetica, sans-serif;
-    margin: 0 30px 0 30px;
+    margin: 0 30px 24px 30px;
     }
  
     .main__button{
     font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
+    padding: 20px 34px 17px 23px;
     }
    }
