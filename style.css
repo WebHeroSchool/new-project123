@@ -138,7 +138,7 @@ height: 35px;
    .main{
     text-align: center;
     padding: 74% 0 0;
-    background-siza: 74%;
+    background-size: 74%;
     background-position: top center;
      }
     
@@ -158,25 +158,24 @@ height: 35px;
     }
     
    .header { 
-   margin-bottom: 28px;
+   margin-bottom: -28px;
     }
     
    .main{
     text-align: center;
-    padding: 74% 0 0;
-    background-size: 74%;
+    padding: 87% 0 0;
+    background-size: 93%;
     background-position: top center;
      }
     
     .main__title{
-    margin-bottom: 44px;
+    margin-bottom: 5px;
+    margin: 0 -5px 0 0;
     font: bold 30px/39px pt_serifbold, arial, helvetica, sans-serif;
      }
-    
-    .main__img{
-    margin-top: 30%;
-    width: 280px;
-    height: 239px;
+  
+    .main__title-text_highlight{
+    line-height: 5px;
      }
   
     .main__button{
