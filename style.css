@@ -184,7 +184,8 @@ height: 35px;
     }
  
     .main__button{
-    font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
+    font: 500 14px Roboto, arial, helvetica, sans-serif;
+    Line height: 16,41px;
     padding: 20px 34px 17px 23px;
     }
    }
