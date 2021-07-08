@@ -160,6 +160,16 @@ height: 35px;
    .header { 
    margin-bottom: -28px;
     }
+  
+  .logo__circle_color_dark-blue{
+   left: -13px;
+   top: 38px;
+    }
+
+   .logo__circle_color_blue{
+    left: -20px;
+    top: 48px;
+    }
     
    .main{
     text-align: center;
