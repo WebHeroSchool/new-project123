@@ -161,11 +161,12 @@ height: 35px;
     display: flex;
     align-items: center;
     position: fixed;
-    top: 20px;
-    left: 20px;
+    top: 27px;
+    right: 24px;
     
     width: 26px;
-    height: 26px;
+    height: 29px;
+    color: blue;
     
     cursor: pointer;
     z-index: 1;
