@@ -153,6 +153,10 @@ height: 35px;
    }
 
 @media (max-width: 375px){
+  .logo{
+   font-size: 0;
+  }
+  
    #menu__toggle{
    opacity: 0;
     }
