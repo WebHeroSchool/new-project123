@@ -127,7 +127,7 @@ height: 35px;
    }
 
   @media (max-width: 1920px){
-   .menu__btn{
+   .hamburger-menu{
    display: none;
     }
   
@@ -136,7 +136,7 @@ height: 35px;
    display: none;
     }
     
-  .menu__btn{
+  .hamburger-menu{
    display: none;
     }
     
