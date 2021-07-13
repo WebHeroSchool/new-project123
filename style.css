@@ -234,7 +234,7 @@ height: 35px;
   list-style: none;
   text-align: center;
   background-color: #ECEFF1;
-  text-decoration: none;
+  box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
   }
   
   .menu__item {
