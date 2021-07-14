@@ -186,7 +186,6 @@ height: 35px;
     z-index: 1;
     }
     
-    
   .menu__btn > span,
   .menu__btn > span::before,
   .menu__btn > span::after {
@@ -255,7 +254,7 @@ height: 35px;
   visibility: visible;
   left: 0;
    }
-   }
+  }
 
 @media (max-width: 375px){
   .logo{
