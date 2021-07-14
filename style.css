@@ -60,11 +60,11 @@ height: 35px;
   transition: opacity .5s;
 }
 
-.menu__item:hover {
+.menu__item:hover::after {
    opacity: 0,5;
 }
 
-.menu__item::after {
+.menu__item_active::after {
   position: absolute;
   display: block;
   content: "";
@@ -75,7 +75,7 @@ height: 35px;
   opacity: 0;
 }
 
-.menu__item:hover, .menu__item::after {
+.menu__item:hover::after, .menu__item_active::after {
   opacity: 1
 }
 
@@ -146,6 +146,10 @@ height: 35px;
   @media (max-width: 768px){
   .menu{
    display: none;
+    }
+    
+   .hamburger-menu{
+   display: flex;
     }
     
    .header { 
