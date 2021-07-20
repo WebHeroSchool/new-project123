@@ -133,7 +133,7 @@ height: 35px;
   @media (max-width: 1024px){
    .wrapper{
    margin: auto;
-   wifth: 92%;
+   width: 92%;
     }
     
    .header { 
