@@ -153,10 +153,10 @@ height: 35px;
    }
 
   .menu__item{
-  right: 100px;
+  right: 18px;
   position: relative;
-  margin-right: 10px;
-  margin-top: 48px;
+  margin-right: 25px;
+  margin-top: 4px;
   font: 500 14px/25px Roboto, arial, helvetica, sans-serif;
   color: #000;
   text-decoration: none;
