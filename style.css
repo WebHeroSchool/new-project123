@@ -148,7 +148,7 @@ height: 35px;
      }
     
      .main__title{
-   margin:20px auto;
+   margin: 0px;
    padding:7px 0 0 0;
    font: bold 50px/59px pt_serifbold, arial, helvetica, sans-serif;
    width:170px;
