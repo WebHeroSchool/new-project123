@@ -133,7 +133,7 @@ height: 35px;
   @media (max-width: 1024px){
    .wrapper{
    margin: auto;
-   width: 91%;
+   width: 92%;
     }
     
    .header { 
@@ -161,7 +161,7 @@ height: 35px;
     
     .main__subtitle{
     margin-bottom: 40px;
-    margin: 19px 1px 35px 1%;
+    margin: 20px 0px 35px;
     font: 18px/27px Roboto, arial, helvetica, sans-serif;
     color: black;
     width:350px;
