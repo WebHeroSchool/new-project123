@@ -133,7 +133,7 @@ height: 35px;
   @media (max-width: 1024px){
    .wrapper{
    margin: auto;
-   width: 92%;
+   width: 91%;
     }
     
    .header { 
@@ -169,8 +169,8 @@ height: 35px;
      }
     
     .main__button{
-    font: 15px/18px Roboto, arial, helvetica, sans-serif;
-    padding: 15px 31px 9px 1px;
+    font: 14px/18px Roboto, arial, helvetica, sans-serif;
+    padding: 12px 23px 12px 14px;
     text-align: center;
       }
     
