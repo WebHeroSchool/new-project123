@@ -142,9 +142,9 @@ height: 35px;
     
    .main{
    text-align: left;
-   padding: 7% 0 13%;
+   padding: 7% 0 63px;
    background-size: 54%;
-   background-position: right;
+   background-position: 98%;
      }
     
      .main__title{
