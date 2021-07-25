@@ -85,7 +85,7 @@ height: 35px;
 
  .main{
   padding: 80px 61% 150px 0;
-  background: top right 5 px no-repeat url(img/mainimg.svg);
+  background: top right 5px no-repeat url(img/mainimg.svg);
   }
 
 .main__title{
