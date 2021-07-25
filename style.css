@@ -96,7 +96,7 @@ height: 35px;
 
 .main__title-text_highlight{
   line-height: 88px;
-  background: #ECF3FF;
+  background-color: #ECF3FF;
   background: linear-gradient(to top, #ecf3ff 0%, #ecf3ff 60%, #fff 82% 100%);
   }
 
