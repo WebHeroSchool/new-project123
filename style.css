@@ -133,14 +133,13 @@ height: 35px;
      }
     }
 
-    @media (max-width: 1444px){
+    @media (max-width: 1444px) {
     .main {
     padding: 80px 61% 150px 0;
     background: top right 5px no-repeat url(img/mainimg.svg);
     background-size: 60%;
     background-position: 100%;
      }
-    }
 
     @media (max-width: 1376px) {
     .wrapper {
