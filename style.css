@@ -140,7 +140,8 @@ height: 35px;
     background-size: 60%;
     background-position: 100%;
      }
-
+    }
+    
     @media (max-width: 1376px) {
     .wrapper {
     margin: auto;
