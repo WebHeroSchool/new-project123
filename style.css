@@ -564,10 +564,10 @@ height: 35px;
 
    @media (max-width: 239px) {
      .main__title{
-     font: bold 25px/39px pt_serifbold, arial, helvetica, sans-serif;
+     font: bold 25px/30px pt_serifbold, arial, helvetica, sans-serif;
       }
 
     .main__subtitle{
-    font: 15px/18px Roboto, arial, helvetica, sans-serif;
+    font: 14px/18px Roboto, arial, helvetica, sans-serif;
       }
    }
