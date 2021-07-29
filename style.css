@@ -355,7 +355,7 @@ height: 35px;
     .main__title{
     margin-bottom: 44px;
     font: bold 30px/39px pt_serifbold, arial, helvetica, sans-serif;
-    width:300px;
+    width: 100%;
     word-break:keep-all;
     }
 
@@ -553,4 +553,21 @@ height: 35px;
     .points{
      display: none;
      }
+   }
+
+   @media (max-width: 376px) {
+     .main__subtitle {
+     width: 100%;
+     margin: 0 0 15% 1%;
+     }
+   }
+
+   @media (max-width: 239px) {
+     .main__title{
+     font: bold 25px/39px pt_serifbold, arial, helvetica, sans-serif;
+      }
+
+    .main__subtitle{
+    font: 15px/18px Roboto, arial, helvetica, sans-serif;
+      }
    }
