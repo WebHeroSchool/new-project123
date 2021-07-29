@@ -133,9 +133,10 @@ height: 35px;
      }
     }
 
-    @media (max-width: 1444px) {
-    .main{
-    background-size: 60%;}
+    @media (max-width: 1444px){
+    .main {
+    background-size: 60%;
+     }
     }
 
     @media (max-width: 1376px) {
