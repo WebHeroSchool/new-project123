@@ -264,7 +264,7 @@ height: 35px;
    padding:7px 0 10px 0;
    font: bold 50px/59px pt_serifbold, arial, helvetica, sans-serif;
    width:400px;
-   word-break:break-all;
+   word-break: keep-all;
      }
 
     .main__title-text_highlight{
@@ -314,6 +314,7 @@ height: 35px;
   @media (max-width: 1007px) {
   .main{
   background-size: 60%;
+  background-position: 100%;
   }
 
   .main__title {
@@ -330,7 +331,7 @@ height: 35px;
   width: 40%;
    }
   }
-  
+
   @media (max-width: 768px){
   .menu{
    display: none;
