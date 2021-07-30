@@ -406,7 +406,7 @@ height: 35px;
 
   .menu__btn > span::before {
   content: '';
-  top: -1px;
+  top: -8px;
   }
 
   .menu__btn > span::after {
@@ -451,7 +451,7 @@ height: 35px;
   transform: rotate(45deg);
   }
 
-  # menu__toggle:checked ~ .menu__btn > span::before {
+  #menu__toggle:checked ~ .menu__btn > span::before {
   top: 0;
   transform: rotate(0);
   }
