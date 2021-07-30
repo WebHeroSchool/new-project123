@@ -134,6 +134,20 @@ height: 35px;
      }
     }
 
+    @media (max-width: 2016px) {
+    .points {
+    top: 90%;
+    margin-left: 1%;
+     }
+    }
+
+    @media (max-width: 1654px) {
+    .main {
+    padding: 5% 61% 5% 0;
+     }
+    }
+
+
     @media (max-width: 1460px) {
     .main {
     background-size: 60%;
@@ -229,6 +243,13 @@ height: 35px;
     margin-left: 445px;
     }
      }
+
+  @media (max-width: 1354px) {
+  .points {
+  top: 90%;
+  margin-left: 1%;
+   }
+  }
 
   @media (max-width: 1328px){
     .wrapper{
@@ -353,7 +374,7 @@ height: 35px;
 
    .main{
     text-align: center;
-    padding: 74% 25% 24%;
+    padding: 74% 25% 10%;
     background-size: 74%;
     background-position: top center;
      }
