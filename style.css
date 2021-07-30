@@ -134,9 +134,9 @@ height: 35px;
      }
     }
 
-    @media (max-width: 2290px) {
+    @media (max-width: 2515px) {
     .main {
-    padding: 80px 61% 10% 0;
+    padding: 80px 61% 20% 0;
      }
     }
 
@@ -371,7 +371,7 @@ height: 35px;
   padding-left: 40%
    }
   }
-  
+
   @media (max-width: 768px){
   .menu{
    display: none;
