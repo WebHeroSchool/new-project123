@@ -147,6 +147,14 @@ height: 35px;
      }
     }
 
+    @media (max-width: 1920px) {
+    .points {
+    top:
+    top: 960px;
+    padding-left: 39%;
+     }
+    }
+
     @media (max-width: 1654px) {
     .main {
     padding: 5% 61% 5% 0;
@@ -246,7 +254,7 @@ height: 35px;
 
     .points{
     top: 654px;
-    margin-left: 445px;
+    padding-left: 444px;
     }
      }
 
