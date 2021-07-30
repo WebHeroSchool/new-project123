@@ -134,9 +134,9 @@ height: 35px;
      }
     }
 
-    @media (max-width: 2240px) {
+    @media (max-width: 2290px) {
     .main {
-    padding: 80px 61% 20% 0;
+    padding: 80px 61% 10% 0;
      }
     }
 
@@ -380,7 +380,7 @@ height: 35px;
 
    .main{
     text-align: center;
-    padding: 74% 25% 10%;
+    padding: 74% 25% 9%;
     background-size: 74%;
     background-position: top center;
      }
