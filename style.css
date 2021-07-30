@@ -124,7 +124,8 @@ height: 35px;
   .points{
     position: absolute;
     font: 40px/45px pt_serifbold, arial, helvetica, sans-serif;
-    padding: 46px 10px 0px 39%;
+    top: 960px;
+    padding-left: 39%;
     color: #C8DBFB;
    }
 
