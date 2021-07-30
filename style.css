@@ -365,6 +365,13 @@ height: 35px;
    }
   }
 
+  @media (max-width: 804px) {
+  .points{
+  top: 80%;
+  padding-left: 40%
+   }
+  }
+  
   @media (max-width: 768px){
   .menu{
    display: none;
