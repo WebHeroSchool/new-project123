@@ -420,21 +420,22 @@ height: 35px;
 
     .main__title{
     margin-bottom: 44px;
-    font: bold 30px/39px pt_serifbold, arial, helvetica, sans-serif;
+    font: bold 40px/48px pt_serifbold, arial, helvetica, sans-serif;
     width: 100%;
     word-break:keep-all;
     }
 
     .main__title-text_highlight{
-    line-height: 39px;
+    line-height: 48px;
      }
 
     .main__subtitle {
-    width: 100%
+    width: 100%;
+    font: 21px/22px Roboto, arial, helvetica, sans-serif;
     }
 
     .main__button{
-    font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
+    font: 500 19px/17px Roboto, arial, helvetica, sans-serif;
     }
 
     #menu__toggle{
