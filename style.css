@@ -495,11 +495,10 @@ height: 35px;
 
   .menu__item {
   display: inline-block;
-  top: 73px;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  padding-left: 40px;
-  padding-right: 40px;
+  top: 75px;
+  padding-top: 43px;
+  line-height: 0px;
+  padding-left: 8px;
   color: #000;
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
