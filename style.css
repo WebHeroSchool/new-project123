@@ -61,6 +61,7 @@ height: 35px;
 }
 
 .menu__item:hover::after {
+   display: inline-block;
    position: absolute;
    opacity: 0.5;
    transition: opacity .5s, width .5s;
@@ -463,7 +464,7 @@ height: 35px;
   display: block;
   position: absolute;
   width: 100%;
-  height: 3px;
+  height: 1px;
   background-color: blue;
   }
 
