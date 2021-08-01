@@ -508,6 +508,7 @@ height: 35px;
 
   .menu__item:hover {
   background-color: #CFD8DC;
+  padding: 30px 30px 30px 30px;
   }
 
   #menu__toggle:checked ~ .menu__btn > span {
