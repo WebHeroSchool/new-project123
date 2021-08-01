@@ -488,11 +488,12 @@ height: 35px;
   }
 
   .menu__item {
-  display: block;
+  display: inline-block;
   top: 73px;
   padding-top: 40px;
-  padding-bottom: 1px;
-  padding-left: 8px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
   color: #000;
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
