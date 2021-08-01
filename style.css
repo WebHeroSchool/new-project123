@@ -168,6 +168,10 @@ height: 35px;
      .hamburger-menu{
      display: none;
        }
+       
+     .points {
+     padding-left: 32%;
+      }
      }
 
     @media (max-width: 1368px){
