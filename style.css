@@ -302,7 +302,7 @@ height: 35px;
 
    .main{
    text-align: left;
-   padding: 7% 0 115px;
+   padding: 7% 0 109px;
    background-size: 511px;
    background-position: 419px;
      }
@@ -321,7 +321,7 @@ height: 35px;
 
     .main__subtitle{
     margin-bottom: 40px;
-    margin: 21px 0px 35px;
+    margin: 21px 0px 36px;
     font: 18px/26px Roboto, arial, helvetica, sans-serif;
     color: black;
     width:350px;
@@ -353,8 +353,8 @@ height: 35px;
 
   .points{
    position: absolute;
-   top: 654px;
-   padding-left: 437px;
+   top: 651px;
+   padding-left: 425px;
    color: #C8DBFB;
       }
    }
