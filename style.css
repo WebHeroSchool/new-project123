@@ -224,11 +224,15 @@ height: 35px;
     position: relative;
     margin-right: 26px;
     margin-top: 4px;
-    font: 500 14px/14px Roboto, arial, helvetica, sans-serif;
+    font: 500 14px/18px Roboto, arial, helvetica, sans-serif;
     color: #000;
     text-decoration: none;
     opacity: 1;
     transition: opacity .5s;
+       }
+
+    .menu__item_active::after {
+    height: 1px;
        }
 
     .points{
@@ -330,7 +334,7 @@ height: 35px;
 
     .main__button{
     font: 14px/19px Roboto, arial, helvetica, sans-serif;
-    padding: 12px 27px 10px 13px;
+    padding: 12px 27px 11px 13px;
     text-align: center;
       }
 
@@ -344,12 +348,16 @@ height: 35px;
   position: relative;
   margin-right: 26px;
   margin-top: 4px;
-  font: 500 14px/15px Roboto, arial, helvetica, sans-serif;
+  font: 500 14px/18px Roboto, arial, helvetica, sans-serif;
   color: #000;
   text-decoration: none;
   opacity: 1;
   transition: opacity .5s;
      }
+
+ .menu__item_active::after {
+ height: 1px;
+    }
 
   .points{
    position: absolute;
@@ -544,6 +552,12 @@ height: 35px;
   @media (max-width: 676px) {
   .main {
   padding: 74% 25% 1%;
+   }
+  }
+
+  @media (max-width: 469px) {
+  .main__title{
+  font: bold 38px/48px pt_serifbold, arial, helvetica, sans-serif;
    }
   }
 
