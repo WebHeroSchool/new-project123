@@ -182,7 +182,7 @@ height: 35px;
 
      .main{
      text-align: left;
-     padding: 7% 0 115px;
+     padding: 7% 0 109px;
      background-size: 514px;
      background-position: 417px;
        }
@@ -200,17 +200,17 @@ height: 35px;
        }
 
       .main__subtitle{
-      margin-bottom: 40px;
-      margin: 20px 0px 35px;
-      font: 18px/27px Roboto, arial, helvetica, sans-serif;
+      margin-bottom: 46px;
+      margin: 24px 0px 39px;
+      font: 18px/23px Roboto, arial, helvetica, sans-serif;
       color: black;
       width:350px;
       word-break:keep-all;
        }
 
       .main__button{
-      font: 14px/18px Roboto, arial, helvetica, sans-serif;
-      padding: 12px 26px 12px 14px;
+      font: 14px/16px Roboto, arial, helvetica, sans-serif;
+      padding: 13px 26px 12px 14px;
       text-align: center;
         }
 
@@ -232,8 +232,8 @@ height: 35px;
        }
 
     .points{
-    top: 654px;
-    padding-left: 444px;
+    top: 652px;
+    padding-left: 446px;
     }
      }
 
