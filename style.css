@@ -53,7 +53,7 @@ height: 35px;
   right: 20px;
   position: relative;
   margin-right: 26px;
-  font: 500 18px/22px Roboto, arial, helvetica, sans-serif;
+  font: 18px/22px robotomedium, arial, helvetica, sans-serif;
   color: #000;
   text-decoration: none;
   opacity: 1;
@@ -98,13 +98,13 @@ height: 35px;
 
 .main__subtitle{
   margin-bottom: 40px;
-  font: 22px/26px Roboto, arial, helvetica, sans-serif;
+  font: 22px/26px robotoregular, arial, helvetica, sans-serif;
   width: 440px;
   }
 
 .main__button{
   display: inline-block;
-  font: 18px/21px Roboto, arial, helvetica, sans-serif;
+  font: 18px/21px robotomedium, arial, helvetica, sans-serif;
   color:#fff;
   background: #0056EC;
   padding: 20px 36px 17px 24px;
@@ -206,14 +206,14 @@ height: 35px;
       .main__subtitle{
       margin-bottom: 46px;
       margin: 24px 0px 39px;
-      font: 18px/23px Roboto, arial, helvetica, sans-serif;
+      font: 18px/23px robotoregular, arial, helvetica, sans-serif;
       color: black;
       width:350px;
       word-break:keep-all;
        }
 
       .main__button{
-      font: 14px/16px Roboto, arial, helvetica, sans-serif;
+      font: 14px/16px robotomedium, arial, helvetica, sans-serif;
       padding: 13px 26px 12px 14px;
       text-align: center;
         }
@@ -228,7 +228,7 @@ height: 35px;
     position: relative;
     margin-right: 26px;
     margin-top: 4px;
-    font: 500 14px/18px Roboto, arial, helvetica, sans-serif;
+    font: 500 14px/18px robotomedium, arial, helvetica, sans-serif;
     color: #000;
     text-decoration: none;
     opacity: 1;
@@ -330,14 +330,14 @@ height: 35px;
     .main__subtitle{
     margin-bottom: 40px;
     margin: 21px 0px 36px;
-    font: 18px/26px Roboto, arial, helvetica, sans-serif;
+    font: 18px/26px robotoregular, arial, helvetica, sans-serif;
     color: black;
     width:350px;
     word-break:keep-all;
      }
 
     .main__button{
-    font: 14px/19px Roboto, arial, helvetica, sans-serif;
+    font: 14px/19px robotomedium, arial, helvetica, sans-serif;
     padding: 12px 27px 11px 13px;
     text-align: center;
       }
@@ -352,7 +352,7 @@ height: 35px;
   position: relative;
   margin-right: 26px;
   margin-top: 4px;
-  font: 500 14px/18px Roboto, arial, helvetica, sans-serif;
+  font: 500 14px/18px robotomedium, arial, helvetica, sans-serif;
   color: #000;
   text-decoration: none;
   opacity: 1;
@@ -387,7 +387,7 @@ height: 35px;
    }
 
   .main__subtitle {
-  font: 18px/20px Roboto, arial, helvetica, sans-serif;
+  font: 18px/20px robotoregular, arial, helvetica, sans-serif;
   width: 40%;
    }
   }
@@ -448,11 +448,11 @@ height: 35px;
 
     .main__subtitle {
     width: 100%;
-    font: 21px/22px Roboto, arial, helvetica, sans-serif;
+    font: 21px/22px robotoregular, arial, helvetica, sans-serif;
     }
 
     .main__button{
-    font: 500 19px/17px Roboto, arial, helvetica, sans-serif;
+    font: 500 19px/17px robotomedium, arial, helvetica, sans-serif;
     }
 
     #menu__toggle{
@@ -587,7 +587,7 @@ height: 35px;
   .main__subtitle {
   width: 200px;
   margin: 20px 50px 35px;
-  font: 18px/24px Roboto, arial, helvetica, sans-serif;
+  font: 18px/24px robotoregular, arial, helvetica, sans-serif;
   }
 }
 
@@ -643,13 +643,13 @@ height: 35px;
     }
 
     .main__subtitle{
-    font: 16px/18px Roboto, arial, helvetica, sans-serif;
+    font: 16px/18px robotoregular, arial, helvetica, sans-serif;
     margin: 0 30px 24px 30px;
     width: 248px
     }
 
     .main__button{
-    font: 500 14px/15px Roboto, arial, helvetica, sans-serif;
+    font: 500 14px/15px robotomedium, arial, helvetica, sans-serif;
     padding: 15px 22px 13px 20px;
     }
 
@@ -671,6 +671,6 @@ height: 35px;
       }
 
     .main__subtitle{
-    font: 14px/18px Roboto, arial, helvetica, sans-serif;
+    font: 14px/18px robotoregular, arial, helvetica, sans-serif;
       }
    }
