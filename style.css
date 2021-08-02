@@ -168,7 +168,7 @@ height: 35px;
      .hamburger-menu{
      display: none;
        }
-       
+
      .points {
      padding-left: 32%;
       }
@@ -601,12 +601,12 @@ height: 35px;
    margin-bottom: -28px;
     }
 
-  .logo__circle_color_dark-blue{
+  .logo__circle_color_blue{
    left: -5px;
    top: 46px;
     }
 
-   .logo__circle_color_blue{
+   .logo__circle_color_dark-blue{
     left: -15px;
     top: 38px;
     }
