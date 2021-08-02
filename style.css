@@ -330,7 +330,7 @@ height: 35px;
     .main__subtitle{
     margin-bottom: 40px;
     margin: 21px 0px 36px;
-    font: 18px/26px robotoregular, arial, helvetica, sans-serif;
+    font: 18px/25px robotoregular, arial, helvetica, sans-serif;
     color: black;
     width:350px;
     word-break:keep-all;
@@ -338,7 +338,7 @@ height: 35px;
 
     .main__button{
     font: 14px/19px robotomedium, arial, helvetica, sans-serif;
-    padding: 12px 27px 11px 13px;
+    padding: 12px 24px 11px 13px;
     text-align: center;
       }
 
