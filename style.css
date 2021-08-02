@@ -412,6 +412,10 @@ height: 35px;
   }
 
   @media (max-width: 768px){
+    .logo {
+    font: bold 0px/0px pt_serifbold, arial, helvetica, sans-serif;
+    }
+
   .menu{
    display: none;
     }
