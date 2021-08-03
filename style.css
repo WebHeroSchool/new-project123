@@ -378,7 +378,7 @@ height: 35px;
   }
 
   .main__title {
-  font: bold 35px/39px pt_serifbold, arial, helvetica, sans-serif;
+  font: bold 31px/39px pt_serifbold, arial, helvetica, sans-serif;
   width: 40%;
    }
 
@@ -401,6 +401,12 @@ height: 35px;
   @media (max-width: 892px) {
     .points {
     padding-left: 43%;
+    }
+  }
+
+  @media (max-width: 873px) {
+    .main {
+    background-size: 55%;
     }
   }
 
