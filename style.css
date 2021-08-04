@@ -362,7 +362,7 @@ height: 35px;
 
   @media (max-width: 1354px) {
   .points {
-  top: 68%;
+  top: 59%;
   margin-left: 1%;
    }
   }
@@ -380,7 +380,7 @@ height: 35px;
 
     .points {
     margin-left: 4%;
-    top: 68%;
+    top: 59%;
     }
    }
 
@@ -393,7 +393,7 @@ height: 35px;
    @media (max-width: 1280px) {
     .points {
     margin-left: 0%;
-    top: 68%;
+    top: 59%;
     }
    }
 
