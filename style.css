@@ -129,6 +129,34 @@ height: 35px;
      }
     }
 
+    @media (max-width: 2520px) {
+    .main {
+    padding: 80px 61% 20%;
+     }
+
+    .menu__item {
+    right: 38%;
+     }
+
+    .points{
+    top: 90%;
+     }
+    }
+
+    @media (max-width: 1920px) {
+    .main{
+    padding: 80px 61% 150px 0;
+     }
+
+    .menu__item {
+     right: 20px;
+     }
+
+    .points {
+    top: 962px;
+     }
+    }
+
     @media (max-width: 1900px) {
     .points {
     top: 90%;
