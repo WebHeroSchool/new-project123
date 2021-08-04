@@ -215,6 +215,10 @@ height: 35px;
     width: 90%;
      }
 
+    .menu__item {
+    right: 19%;
+    }
+
     .main {
     padding: 5% 1% 30%;
     background-size: 60%;
