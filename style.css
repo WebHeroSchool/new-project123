@@ -225,6 +225,10 @@ height: 35px;
     background-size: 60%;
     background: 90% top/57% no-repeat url(img/mainimg.svg)
      }
+
+    .points {
+    padding-left: 45%;
+     }
     }
 
     @media (max-width: 1460px) {
