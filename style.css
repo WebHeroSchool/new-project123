@@ -363,6 +363,10 @@ height: 35px;
  }
 
   @media (max-width: 1200px) {
+    .main {
+    background-position: 100%;
+    }
+
     .points {
     margin-left: 7%;
     }
