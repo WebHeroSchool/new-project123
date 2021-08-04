@@ -163,12 +163,13 @@ height: 35px;
 
     @media (max-width: 1550px) {
     .main {
-    padding: 5% 61% 25%;
+    padding: 5% 1% 25%;
     background-size: 60%;
      }
 
     .main__title {
     font: bold 56px/75px pt_serifbold, arial, helvetica, sans-serif;
+    width: 45%;
       }
 
     .main__title-text_highlight{
