@@ -190,6 +190,10 @@ height: 35px;
     }
 
     @media (max-width: 1550px) {
+    .menu__item {
+    right: 0%;
+     }
+
     .main {
     padding: 5% 1% 25%;
     background-size: 60%;
