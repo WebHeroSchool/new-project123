@@ -444,19 +444,23 @@ height: 35px;
 
   @media (max-width: 1121px) {
     .points {
-    margin-left: 33%;
+    margin-left: 0%;
     }
   }
 
   @media (max-width: 1100px) {
     .points {
-    margin-left: 2%;
+    margin-left: 0%;
     }
   }
 
   @media (max-width: 1046px) {
     .main {
     background-position: 100%;
+    }
+
+    .points {
+    padding-left: 39%;
     }
   }
 
