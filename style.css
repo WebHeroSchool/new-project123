@@ -392,14 +392,14 @@ height: 35px;
 
    @media (max-width: 1280px) {
     .points {
-    margin-left: 2%;
+    margin-left: 0%;
     top: 68%;
     }
    }
 
    @media (max-width: 1240px) {
     .points {
-    margin-left: 8%;
+    margin-left: 0%;
     }
   }
 
