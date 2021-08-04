@@ -131,7 +131,7 @@ height: 35px;
 
     @media (min-width: 2520px) {
     .main {
-    padding: 80px 61% 20%;
+    padding: 80px 61% 20% 0px;
      }
 
     .menu__item {
