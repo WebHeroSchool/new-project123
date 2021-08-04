@@ -510,7 +510,7 @@ height: 35px;
 
     .main__subtitle{
     margin-bottom: 40px;
-    margin: 21px 0px 36px;
+    margin: 21px 0px 37px;
     font: 18px/25px robotoregular, arial, helvetica, sans-serif;
     color: black;
     width:350px;
@@ -519,7 +519,7 @@ height: 35px;
 
     .main__button{
     font: 14px/19px robotomedium, arial, helvetica, sans-serif;
-    padding: 12px 24px 11px 13px;
+    padding: 12px 25px 11px 13px;
     text-align: center;
       }
 
@@ -547,7 +547,7 @@ height: 35px;
   .points{
    position: absolute;
    top: 651px;
-   padding-left: 425px;
+   padding-left: 447px;
    color: #C8DBFB;
       }
    }
@@ -702,7 +702,7 @@ height: 35px;
 
   .menu__item {
   display: inline-block;
-  top: 75px;
+  top: 76px;
   padding-top: 43px;
   line-height: 0px;
   padding-left: 8px;
