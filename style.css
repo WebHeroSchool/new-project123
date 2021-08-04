@@ -165,7 +165,8 @@ height: 35px;
 
     @media (max-width: 1893px) {
     .main {
-    background-size: 56%
+    background-size: 56%;
+    padding: 80px 61% 20% 0;
      }
 
     .main__title {
