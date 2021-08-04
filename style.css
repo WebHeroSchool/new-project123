@@ -571,6 +571,10 @@ height: 35px;
   font: 18px/20px robotoregular, arial, helvetica, sans-serif;
   width: 40%;
    }
+
+  .points {
+  top: 70%;
+   }
   }
 
   @media (max-width: 952px) {
