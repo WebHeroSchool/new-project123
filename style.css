@@ -192,13 +192,13 @@ height: 35px;
 
     @media (max-width: 1460px) {
     .main {
-    background-size: 60%;
+    background-size: 55%;
      }
     }
 
     @media (max-width: 1401px) {
     .main {
-    background-size: 58%;
+    background-size: 62%;
     background: 100% top/50% no-repeat url(img/mainimg.svg);
      }
     }
@@ -392,7 +392,7 @@ height: 35px;
     }
   }
 
-  @media (max-width: 1044px) {
+  @media (max-width: 1046px) {
     .main {
     background-position: 100%;
     }
