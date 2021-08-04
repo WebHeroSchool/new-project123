@@ -406,6 +406,16 @@ height: 35px;
     }
   }
 
+  @media (max-width: 1188px) {
+   .main__title{
+   font: bold 45px/56px pt_serifbold, arial, helvetica, sans-serif;
+    }
+
+   .main__title-text_highlight {
+    line-height: 56px;
+   }
+  }
+
   @media (max-width: 1179px) {
     .points {
     margin-left: 0%;
