@@ -114,6 +114,7 @@ height: 35px;
 
   .main__button:hover{
     opacity: .5;
+    background-color: red;
   }
 
   .points{
