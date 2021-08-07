@@ -59,7 +59,7 @@ height: 35px;
   opacity: 1;
   transition: opacity .5s;
   animation-duration: 3s;
-  animation-name: slidein;
+  animation-name: slidein ;
 }
 
 .menu__item_active::after {
