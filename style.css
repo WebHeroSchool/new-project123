@@ -58,6 +58,8 @@ height: 35px;
   text-decoration: none;
   opacity: 1;
   transition: opacity .5s;
+  animation-duration: 3s;
+  animation-name: slidein;
 }
 
 .menu__item_active::after {
@@ -77,6 +79,18 @@ height: 35px;
 
 .menu__item:last-child {
   margin-right: -9px;
+  }
+
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
   }
 
  .main{
