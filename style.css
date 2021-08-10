@@ -647,10 +647,14 @@ body {
   .menu__item {
       display: inline-block;
       top: 76px;
-      padding: 43 0 0 8px;
+      padding-top: 43px;
+      line-height: 0px;
+      padding-left: 8px;
       color: #000;
-      font: 600 30px/0 'Roboto', sans-serif;
+      font: 30px 'Roboto', sans-serif;
+      font-weight: 600;
       text-decoration: none;
+    }
   }
 
   .menu__item:hover {
