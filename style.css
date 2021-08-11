@@ -324,7 +324,7 @@ body {
       padding:7px 0 10px 0;
       font: bold 50px/59px pt_serifbold, arial, helvetica, sans-serif;
       width: 400px;
-      word-break:keep-all;
+      word-break: keep-all;
   }
 
   .main__title-text_highlight {
@@ -646,13 +646,10 @@ body {
 
   .menu__item {
       display: inline-block;
-      top: 76px;
-      padding-top: 43px;
-      line-height: 0px;
-      padding-left: 8px;
+      top: 62px;
+      padding: 36px 0 0 10px;
       color: #000;
-      font: 30px 'Roboto', sans-serif;
-      font-weight: 600;
+      font: 600 30px/11px 'Roboto', sans-serif;
       text-decoration: none;
     }
   }
