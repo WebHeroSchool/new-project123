@@ -90,9 +90,8 @@ body {
       margin-left: 0%;
       width: 100%;
     }
-}
-
-.main{
+    
+ .main {
   padding: 80px 61% 150px 0;
   background: 99% top/50% no-repeat url(img/mainimg.svg);
 }
