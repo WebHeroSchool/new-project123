@@ -131,7 +131,7 @@ body {
 }
 
 .points {
-  position: absolute;
+  display: flex;
   font: 40px/45px pt_serifbold, arial, helvetica, sans-serif;
   top: 962px;
   padding-left: 39%;
@@ -652,7 +652,6 @@ body {
       font: 600 30px/11px 'Roboto', sans-serif;
       text-decoration: none;
     }
-  }
 
   .menu__item:hover {
       background-color: #CFD8DC;
@@ -681,7 +680,6 @@ body {
   .points {
       display: none;
    }
-
 }
 
 @media (max-width: 700px) {
@@ -781,7 +779,7 @@ body {
   }
 
   .points{
-     display: none;
+      display: none;
   }
 
 }
