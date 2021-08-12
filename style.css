@@ -90,6 +90,7 @@ body {
       margin-left: 0%;
       width: 100%;
     }
+}
     
  .main {
   padding: 80px 61% 150px 0;
@@ -153,22 +154,6 @@ body {
 
   .points {
       top: 90%;
-  }
-
-}
-
-@media (max-width: 1920px) {
-
-  .main {
-      padding: 80px 61% 150px 0;
-  }
-
-  .menu__item {
-      right: 20px;
-  }
-
-  .points {
-      top: 962px;
   }
 
 }
