@@ -158,22 +158,6 @@ body {
 
 }
 
-@media (max-width: 1920px) {
-
-  .main {
-      padding: 80px 61% 150px 0;
-  }
-
-  .menu__item {
-      right: 20px;
-  }
-
-  .points {
-      top: 962px;
-  }
-
-}
-
 @media (max-width: 1900px) {
 
   .points {
