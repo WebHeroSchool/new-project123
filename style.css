@@ -61,7 +61,7 @@ body {
   animation-name: slidein;
 }
 
-.menu__item_active::after {
+.menu__item::after {
   position: absolute;
   display: block;
   content: '';
