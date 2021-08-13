@@ -627,10 +627,10 @@ body {
 
   .menu__item {
       display: inline-block;
-      top: 62px;
+      top: 63px;
       padding: 36px 0 0 10px;
       color: #000;
-      font: 600 30px/11px 'Roboto', sans-serif;
+      font: 600 28px/13px 'Roboto', sans-serif;
       text-decoration: none;
     }
 
@@ -781,3 +781,4 @@ body {
   .main__subtitle{
       font: 14px/18px robotoregular, arial, helvetica, sans-serif;
   }
+}
