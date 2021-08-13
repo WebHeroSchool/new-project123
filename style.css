@@ -1391,12 +1391,12 @@ body {
 
   .menu__btn > span::before {
       content: '';
-      top: -8px;
+      top: -7px;
   }
 
   .menu__btn > span::after {
       content: '';
-      top: 8px;
+      top: 7px;
   }
 
   .menu__box {
