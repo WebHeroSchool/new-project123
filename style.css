@@ -15,11 +15,11 @@ body {
 
 .logo {
   position: relative;
-  color:black;
-  padding: 40px 0 40px 48px;
-  font: bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
-  width: 190px;
-  height: 35px;
+  color: black;
+  padding:  40px 0 40px  48px;
+  font:  bold 24px/31px pt_serifbold, arial, helvetica, sans-serif;
+  width:  190px;
+  height:  35px;
 }
 
 .logo__circle {
@@ -40,7 +40,7 @@ body {
 .logo__circle_color_blue {
   left: 11px;
   top: 53%;
-  background: #C8DBFB;
+  background: #c8dbfb;
 }
 
 .menu {
@@ -92,7 +92,7 @@ body {
     }
 }
 
-.main{
+.main {
   padding: 80px 61% 150px 0;
   background: 99% top/50% no-repeat url(img/mainimg.svg);
 }
@@ -126,29 +126,29 @@ body {
 }
 
 .main__button:hover {
-  opacity: .5;
-  background-color: red;
+  opacity:  .5;
+  background-color:  red;
 }
 
 .points {
   position: absolute;
-  font: 40px/45px pt_serifbold, arial, helvetica, sans-serif;
-  top: 962px;
-  padding-left: 39%;
+  font:  40px/45px pt_serifbold, arial, helvetica, sans-serif;
+  top:  962px;
+  padding-left:  39%;
   color: #C8DBFB;
 }
 
-.hamburger-menu{
+.hamburger-menu {
   display: none;
 }
 
-@media (min-width: 1965px) {
+@media (min-width: 1965px){
 
   .main {
       padding: 80px 61% 20% 0px;
   }
 
-  .menu__item {
+  .menu__item  {
       right: 38%;
   }
 
@@ -158,7 +158,7 @@ body {
 
 }
 
-@media (max-width: 1900px) {
+@media (max-width: 1900px){
 
   .points {
       top: 90%;
@@ -167,21 +167,21 @@ body {
 }
 
 
-@media (max-width: 1893px) {
+@media (max-width: 1893px){
 
   .main {
       background-size: 56%;
       padding: 80px 61% 20% 0;
   }
 
-  .main__title {
+  .main__title  {
       font: bold 61px/83px pt_serifbold, arial, helvetica, sans-serif;
   }
 
 }
 
 
-@media (max-width: 1808px) {
+@media (max-width: 1808px){
 
   .main__title {
       font: bold 58px/83px pt_serifbold, arial, helvetica, sans-serif;
@@ -189,7 +189,7 @@ body {
 
 }
 
-@media (max-width: 1654px) {
+@media (max-width: 1654px){
 
   .main {
       padding: 5% 61% 15% 0;
@@ -197,7 +197,7 @@ body {
 
 }
 
-@media (max-width: 1550px) {
+@media (max-width: 1550px){
 
   .menu__item {
       right: 0%;
@@ -213,13 +213,13 @@ body {
       width: 45%;
   }
 
-  .main__title-text_highlight {
+  .main__title-text_highlight  {
       line-height: 75px;
   }
 
 }
 
-@media (max-width: 1505px) {
+@media (max-width: 1505px){
 
   .wrapper{
       width: 90%;
@@ -232,12 +232,12 @@ body {
   .main {
       padding: 5% 1% 30%;
       background-size: 60%;
-      background: 90% top/57% no-repeat url(img/mainimg.svg)
+      background: 90% top/57% no-repeat url(img/mainimg.svg);
   }
 
 }
 
-@media (max-width: 1460px) {
+@media (max-width: 1460px){
 
   .main {
       background-size: 55%;
@@ -245,13 +245,13 @@ body {
 
 }
 
-@media (max-width: 1376px) {
+@media (max-width: 1376px){
 
-  .wrapper {
+  .wrapper  {
       width: 75%;
   }
 
-  .header {
+  .header  {
       margin-bottom: 40px;
   }
 
@@ -261,7 +261,7 @@ body {
   }
 
   .main__title {
-      font: bold 50px/59px pt_serifbold, arial, helvetica, sans-serif;
+      font:  bold  50px/59px  pt_serifbold,  arial, helvetica, sans-serif;
   }
 
   .main__title-text_highlight {
@@ -284,7 +284,7 @@ body {
 
 }
 
-@media (max-width: 1368px) {
+@media  (max-width: 1368px){
 
   .wrapper{
       width: 68%;
@@ -355,7 +355,7 @@ body {
 
 }
 
-@media (max-width: 1328px) {
+@media (max-width: 1328px){
 
   .wrapper {
       width: 80%;
@@ -373,7 +373,7 @@ body {
 
 }
 
-@media (max-width: 1315px) {
+@media (max-width: 1315px){
 
   .menu__item {
       right: 32%;
@@ -381,7 +381,7 @@ body {
 
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1280px){
 
  .points {
       margin-left: 0%;
@@ -390,7 +390,7 @@ body {
 
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1200px){
 
   .main {
       background-position: 100%;
@@ -411,7 +411,7 @@ body {
 
 }
 
-@media (max-width: 1036px) {
+@media (max-width: 1036px){
 
   .wrapper {
       width: 91%;
@@ -429,7 +429,7 @@ body {
       margin-bottom: 28px;
   }
 
-  .logo {
+  .logo  {
       font: bold 23px/31px pt_serifbold, arial, helvetica, sans-serif;
   }
 
