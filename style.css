@@ -602,12 +602,12 @@ body {
 
   .menu__btn > span::before {
       content: '';
-      top: -8px;
+      top:    -7px;
   }
 
   .menu__btn > span::after {
       content: '';
-      top: 8px;
+      top:    7px;
   }
 
   .menu__box {
@@ -755,8 +755,8 @@ body {
   }
 
   .main__button{
-      font: 500 14px/15px robotomedium, arial, helvetica, sans-serif;
-      padding: 15px 22px 13px 20px;
+      font:    500 14px/17px robotomedium, arial, helvetica, sans-serif;
+      padding:    12px 22px 13px 15px;
   }
 
   .points{
