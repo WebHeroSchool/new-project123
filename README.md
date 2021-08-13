@@ -1,0 +1,2 @@
+# new-project123
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c472b1081b6945d8bf23b94d0b02ad22)](https://app.codacy.com/gh/WebHeroSchool/new-project123?utm_source=github.com&utm_medium=referral&utm_content=WebHeroSchool/new-project123&utm_campaign=Badge_Grade_Settings)
